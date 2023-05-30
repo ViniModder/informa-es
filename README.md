@@ -4,7 +4,7 @@
 - Python
 - Javascript
 
-<img align="center" fit="fill" alt="GIF" src="https://cdn.discordapp.com/attachments/912458800064266240/912458945661124698/vinimodder.jpg" />
+
 
 ### 📫 Seguir Minhas Redes Socias
 <a href="https://www.instagram.com/bkvini.ofc" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
