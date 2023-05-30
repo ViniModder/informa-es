@@ -1,4 +1,4 @@
-## Olá eu sou [VINI MODDER](https://instagram.com/denssptraa) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+## Olá eu sou [VINY MODDER](https://instagram.com/denssptraa) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
 :page_with_curl: Atualmente estou aprendendo:
 - Python
